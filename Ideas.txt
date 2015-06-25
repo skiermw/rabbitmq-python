@@ -1,0 +1,7 @@
+Flask-WTF ideas
+
+View policy
+Generate forms code from the Swagger model
+View queue message
+update each PUT/PATCH REST endpoint
+Store input and results for regression tests

@@ -1,0 +1,435 @@
+{
+	"newPolicy": {
+		"additionalListedInsureds": [],
+		"address": {
+			"city": "Skokie",
+			"county": "Cook",
+			"id": "216bdffd48ec4769a460c32f4330dfb4",
+			"latitude": 42.0101,
+			"longitude": -87.75354,
+			"state": "IL",
+			"street": "5014 Estes Ave",
+			"zip": "60077-3520"
+		},
+		"applicant": {
+			"age": 58,
+			"birthDate": "1956-09-10",
+			"creditReport": {
+				"id": "a5d42b3d32d84cb482ba43212867fbc3",
+				"reasons": [{
+					"code": "0131",
+					"description": "ACCOUNT WITH A REPORTED DELINQUENCY STATUS INCLUDING BAD DEBT",
+					"id": "07479fdfdb21472d9989bd4f6482f853"
+				},
+				{
+					"code": "0142",
+					"description": "# OF NON CLOSED ACCOUNTS",
+					"id": "115352b2d39844a29fab6f470a184e23"
+				},
+				{
+					"code": "0902",
+					"description": "INSUFFICIENT INFORMATION ON BANK REVOLVING ACCOUNTS",
+					"id": "75ee2747cdcb4404a5fe6218365a6db7"
+				},
+				{
+					"code": "0143",
+					"description": "# OF ACCOUNTS WITH A PAST DUE AMOUNT",
+					"id": "52bfbd3b77d04594b47669adbf749c7a"
+				}],
+				"referenceNumber": "15131161802021",
+				"score": 589,
+				"status": "Scored"
+			},
+			"firstName": "KATHY",
+			"gender": "Female",
+			"id": "e306e295bd1747b5b7422e85393cf7f0",
+			"lastName": "BOCKETT",
+			"maritalStatus": "Single"
+		},
+		"channelOfOrigin": "PublicWebsite",
+		"clueReferenceNumbers": ["15131161801997"],
+		"company": "ShelterGeneral",
+		"compositeDriverRatingFactorWithPoints": 0.00,
+		"compositeDriverRatingFactorWithoutPoints": 0.00,
+		"coverages": [],
+		"discounts": [{
+			"id": "c3d099b2b9da4f70bea54af0744ed254",
+			"type": "PayInFull"
+		},
+		{
+			"id": "48a52546460046149b4549b85d33e681",
+			"type": "OnlineSubmission"
+		},
+		{
+			"id": "f55ab76c51404d7fa0b2d4357070eb52",
+			"type": "EvidenceOfPriorInsurance"
+		}],
+		"drivers": [{
+			"age": 58,
+			"birthDate": "1956-09-10",
+			"claims": [{
+				"chargeable": false,
+				"claimDate": "2013-07-23",
+				"fault": "NotAtFault",
+				"id": "8bf7b4eb495e454da7ad191de07a5936",
+				"payments": [{
+					"amount": 0.00,
+					"id": "7a3d13a45d8942eb9928cc7e9361fd0e",
+					"status": "Closed",
+					"type": "Collision"
+				}]
+			},
+			{
+				"chargeable": false,
+				"claimDate": "2011-05-23",
+				"fault": "Unknown",
+				"id": "1f3d12b92ee54d95bae6f251c26514c2",
+				"payments": [{
+					"amount": 617.00,
+					"id": "c58ce65ef5684667a5fdd76f67f2a785",
+					"status": "Closed",
+					"type": "Collision"
+				},
+				{
+					"amount": 50.00,
+					"id": "9bf8ad94074945beaa46bac6580f57cb",
+					"status": "Closed",
+					"type": "UninsuredMotorist"
+				}]
+			}],
+			"creditReport": {
+				"id": "a5d42b3d32d84cb482ba43212867fbc3",
+				"reasons": [{
+					"code": "0131",
+					"description": "ACCOUNT WITH A REPORTED DELINQUENCY STATUS INCLUDING BAD DEBT",
+					"id": "07479fdfdb21472d9989bd4f6482f853"
+				},
+				{
+					"code": "0142",
+					"description": "# OF NON CLOSED ACCOUNTS",
+					"id": "115352b2d39844a29fab6f470a184e23"
+				},
+				{
+					"code": "0902",
+					"description": "INSUFFICIENT INFORMATION ON BANK REVOLVING ACCOUNTS",
+					"id": "75ee2747cdcb4404a5fe6218365a6db7"
+				},
+				{
+					"code": "0143",
+					"description": "# OF ACCOUNTS WITH A PAST DUE AMOUNT",
+					"id": "52bfbd3b77d04594b47669adbf749c7a"
+				}],
+				"referenceNumber": "15131161802021",
+				"score": 589,
+				"status": "Scored"
+			},
+			"firstName": "KATHY",
+			"gender": "Female",
+			"id": "e306e295bd1747b5b7422e85393cf7f0",
+			"lastName": "BOCKETT",
+			"licenseNumber": "B53653745846",
+			"licenseState": "IL",
+			"licenseStatus": "Valid",
+			"maritalStatus": "Single",
+			"sequence": 1,
+			"suspensions": [],
+			"violationPoints": 0,
+			"violations": [{
+				"code": "08110",
+				"id": "ff36c9e8e2f04dd1afee8f00a83b416b"
+			}]
+		}],
+		"effectiveDate": "2015-05-11T16:59:53.826Z",
+		"evidenceOfPriorInsurance": true,
+		"expirationDate": "2015-11-11T06:01:00.000Z",
+		"familyNumber": "000000003",
+		"fcraNoticeRequired": true,
+		"firstPolicyEffectiveDate": "2015-05-11T16:59:53.826Z",
+		"forms": ["DPA-0001",
+		"DPA-0020",
+		"DPA-0100",
+		"DPA-0160",
+		"DPA-0400",
+		"DIL-7999"],
+		"id": "22b6a50bb50e42f19fa9e38507d246ce",
+		"lineOfBusiness": "JA",
+		"namedInsureds": [{
+			"age": 58,
+			"birthDate": "1956-09-10",
+			"creditReport": {
+				"id": "a5d42b3d32d84cb482ba43212867fbc3",
+				"reasons": [{
+					"code": "0131",
+					"description": "ACCOUNT WITH A REPORTED DELINQUENCY STATUS INCLUDING BAD DEBT",
+					"id": "07479fdfdb21472d9989bd4f6482f853"
+				},
+				{
+					"code": "0142",
+					"description": "# OF NON CLOSED ACCOUNTS",
+					"id": "115352b2d39844a29fab6f470a184e23"
+				},
+				{
+					"code": "0902",
+					"description": "INSUFFICIENT INFORMATION ON BANK REVOLVING ACCOUNTS",
+					"id": "75ee2747cdcb4404a5fe6218365a6db7"
+				},
+				{
+					"code": "0143",
+					"description": "# OF ACCOUNTS WITH A PAST DUE AMOUNT",
+					"id": "52bfbd3b77d04594b47669adbf749c7a"
+				}],
+				"referenceNumber": "15131161802021",
+				"score": 589,
+				"status": "Scored"
+			},
+			"firstName": "KATHY",
+			"gender": "Female",
+			"id": "e306e295bd1747b5b7422e85393cf7f0",
+			"lastName": "BOCKETT",
+			"maritalStatus": "Single"
+		}],
+		"nonDescribedVehicle": {
+			"coverages": [{
+				"id": "5ec03d0d5f934848bfb8813fd358347d",
+				"limits": [{
+					"id": "b352112613d34344b69214b3ec948fc8",
+					"type": "PerPerson",
+					"value": 250000
+				},
+				{
+					"id": "b0eb31ac8ec3465a81b40a1698df4ea3",
+					"type": "PerOccurrence",
+					"value": 500000
+				}],
+				"type": "BodilyInjury"
+			},
+			{
+				"id": "392c328aa29145bdab26f31355c3886e",
+				"limits": [{
+					"id": "4cd552ebc94b40299421d1d13d2e721c",
+					"type": "PerOccurrence",
+					"value": 250000
+				}],
+				"type": "PropertyDamage"
+			},
+			{
+				"id": "c39b8744e13e4a6d9d706c483a67c8af",
+				"limits": [{
+					"id": "7cf132935b154be3bcbc62ce13c01283",
+					"type": "PerPerson",
+					"value": 25000
+				},
+				{
+					"id": "ee07b72e9fb3482bb143bc5247ba6ab0",
+					"type": "PerOccurrence",
+					"value": 50000
+				}],
+				"type": "UninsuredMotorist"
+			},
+			{
+				"id": "e56b1256b2e74f89a9f177574c2c3e8a",
+				"limits": [{
+					"id": "2d8206e3176240b591de96dffbbedd3a",
+					"type": "Deductible",
+					"value": 1000
+				}],
+				"type": "Collision"
+			}],
+			"id": "322194f8dd4f4023af914740255012f9",
+			"permissiveUserCoverages": [{
+				"id": "0df238858d2c4387b09b3d3ac344a46a",
+				"limits": [{
+					"id": "10fff3508a604058b2486fdf6105f71c",
+					"type": "PerPerson",
+					"value": 25000
+				},
+				{
+					"id": "70c85f2fc6154cca9adfef1f9c27efd1",
+					"type": "PerOccurrence",
+					"value": 50000
+				}],
+				"type": "BodilyInjury"
+			},
+			{
+				"id": "b83ed370184a4acdb90146d9a4311393",
+				"limits": [{
+					"id": "af9d175b9a4749bfae8b675d66472204",
+					"type": "PerOccurrence",
+					"value": 25000
+				}],
+				"type": "PropertyDamage"
+			}]
+		},
+		"policyNumber": "000000003",
+		"status": "Pending",
+		"term": 6,
+		"territory": "28",
+		"totalDiscount": 10.28,
+		"totalPremium": 1501.65,
+		"vehicles": [{
+			"businessUse": "NonBusinessUse",
+			"costSymbol": "025",
+			"coverages": [{
+				"id": "642d2e70248c48ef92a073fe46068264",
+				"limits": [{
+					"id": "91854fff2ab44431a0a59336abb1f949",
+					"type": "PerPerson",
+					"value": 250000
+				},
+				{
+					"id": "2b04fee024fe4fe78c098ced0a3bc70c",
+					"type": "PerOccurrence",
+					"value": 500000
+				}],
+				"premium": 325.68,
+				"type": "BodilyInjury"
+			},
+			{
+				"id": "9bdb2f8c463c4431acc6fa4ace2c7619",
+				"limits": [{
+					"id": "f95b08b127bd4c1c939e3703fe2ca399",
+					"type": "PerOccurrence",
+					"value": 250000
+				}],
+				"premium": 302.19,
+				"type": "PropertyDamage"
+			},
+			{
+				"id": "1bfb59554d7240b9a11b6b5e5385a569",
+				"limits": [{
+					"id": "b3eb31ce5ebc4bc08f3aa4da21b31323",
+					"type": "PerPerson",
+					"value": 25000
+				},
+				{
+					"id": "56cc8e76eb534412865bcb6f8dc925cf",
+					"type": "PerOccurrence",
+					"value": 50000
+				}],
+				"premium": 21.14,
+				"type": "UninsuredMotorist"
+			},
+			{
+				"id": "3ec799a467954e2eabe3a31478adb4c4",
+				"limits": [{
+					"id": "586adbf0d59f428492537406ee750f3b",
+					"type": "Deductible",
+					"value": 1000
+				}],
+				"premium": 203.63,
+				"type": "Collision"
+			}],
+			"id": "428bd678fec64b709c48251d15b423c9",
+			"make": "Pontiac",
+			"model": "Montana",
+			"ownership": "Owned",
+			"permissiveUserCoverages": [{
+				"id": "73e213274cf14d5ab4ad5141e7ea8a00",
+				"limits": [{
+					"id": "a724fef1be894619b48a9e47c2456c38",
+					"type": "PerPerson",
+					"value": 25000
+				},
+				{
+					"id": "a88edafc690a4d96a4f1049a75ac00dc",
+					"type": "PerOccurrence",
+					"value": 50000
+				}],
+				"type": "BodilyInjury"
+			},
+			{
+				"id": "1d08a2cf23b44719992314eaf399c777",
+				"limits": [{
+					"id": "3d92437283de4320b37ba7fbb1dd462c",
+					"type": "PerOccurrence",
+					"value": 25000
+				}],
+				"type": "PropertyDamage"
+			}],
+			"previouslyInsured": true,
+			"pseudoVin": "  M X03 ",
+			"sequence": 1,
+			"trim": "Ext. Passenger Van",
+			"trimCode": "1",
+			"vin": "1GMDX03E63D154385",
+			"year": 2003
+		},
+		{
+			"antiTheftDevice": false,
+			"businessUse": "NonBusinessUse",
+			"costSymbol": "033",
+			"coverages": [{
+				"id": "fb9cf1e51ed5442fa68cf104fa7b33bd",
+				"limits": [{
+					"id": "c818ae21770c4fd48aa405f659806419",
+					"type": "PerPerson",
+					"value": 250000
+				},
+				{
+					"id": "1af988e97c7e49678c14adc14fd4be5d",
+					"type": "PerOccurrence",
+					"value": 500000
+				}],
+				"premium": 325.68,
+				"type": "BodilyInjury"
+			},
+			{
+				"id": "c8b8997554d3494bb1f47ad1324d4216",
+				"limits": [{
+					"id": "1a181e8d09df445ab123128d3c1585b3",
+					"type": "PerOccurrence",
+					"value": 250000
+				}],
+				"premium": 302.19,
+				"type": "PropertyDamage"
+			},
+			{
+				"id": "fc2fa8a483714de4b1c40e31200543e5",
+				"limits": [{
+					"id": "1f9941180766425a9cb41c4a3685ebe0",
+					"type": "PerPerson",
+					"value": 25000
+				},
+				{
+					"id": "be9ae6afa2ce4b7aa50e070bc35bb024",
+					"type": "PerOccurrence",
+					"value": 50000
+				}],
+				"premium": 21.14,
+				"type": "UninsuredMotorist"
+			}],
+			"id": "000a7d4173eb4ed1a508aa0bba765dc9",
+			"make": "Chevrolet",
+			"model": "Silverado 2500 HD",
+			"ownership": "Owned",
+			"permissiveUserCoverages": [{
+				"id": "5432594891a54d8bb4274f61ced42970",
+				"limits": [{
+					"id": "a3d53f0c8260410b8dc90a0c96a67f64",
+					"type": "PerPerson",
+					"value": 25000
+				},
+				{
+					"id": "df43af73b69f49359781d960c8510d5b",
+					"type": "PerOccurrence",
+					"value": 50000
+				}],
+				"type": "BodilyInjury"
+			},
+			{
+				"id": "d5c0ca3fe676429f830a76a51a011ac9",
+				"limits": [{
+					"id": "14cb9f5fc6b644a4bb15d88f967968fb",
+					"type": "PerOccurrence",
+					"value": 25000
+				}],
+				"type": "PropertyDamage"
+			}],
+			"pseudoVin": "  C K23 ",
+			"sequence": 2,
+			"trim": "4wd LS Crew Cab SWB gas",
+			"trimCode": "6",
+			"vin": "1GCHK23U94F160680",
+			"year": 2004
+		}]
+	}
